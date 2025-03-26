@@ -4,22 +4,22 @@
     <title>MeowRo</title>
     <!-- Android updates -->
     <item>
-      <title>버전 2.1.4</title>
+      <title>버전 2.1.5</title>
       <description>새로운 기능 및 버그 수정
       </description>
       <pubDate>Thu, 27 May 2025 00:00:00 -0000</pubDate>
       <enclosure url="출시된 구글플레이스토어 주소"
-                 sparkle:version="2.1.4" sparkle:os="android" />
+                 sparkle:version="2.1.5" sparkle:os="android" />
     </item>
 
     <!-- iOS updates -->
     <item>
-      <title>버전 2.1.4</title>
+      <title>버전 2.1.5</title>
       <description>새로운 기능 및 버그 수정
       </description>
       <pubDate>Thu, 27 May 2025 00:00:00 -0000</pubDate>
       <enclosure url="https://apps.apple.com/us/app/meowro-%EC%98%A4%EB%8A%98%EC%9D%98-%EA%B8%B0%EB%A1%9D%EC%9D%B4-%EB%82%B4%EC%9D%BC%EC%9D%98-%EA%B3%B5%EC%A1%B4%EC%9D%84-%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4/id6503136714"
-                 sparkle:version="2.1.4" sparkle:os="ios" />
+                 sparkle:version="2.1.5" sparkle:os="ios" />
     </item>
   </channel>
 </rss>
